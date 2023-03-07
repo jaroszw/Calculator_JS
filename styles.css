@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Helvetica Neue";
+  margin: 25px;
+}
+
+.calculator {
+  background-color: #000;
+  border-radius: 50px;
+  color: #fff;
+  padding: 20px;
+  width: 563px;
+  height: 1218px;
+}
